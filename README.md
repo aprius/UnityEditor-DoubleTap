@@ -1,4 +1,4 @@
-# DoubleTapHook
+# Double-Tap Hook For Unity Editor on macOS and Windows
 
 ## What it does
 
