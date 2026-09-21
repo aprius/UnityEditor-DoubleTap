@@ -1,0 +1,5 @@
+# IntelliJ Rider
+/.idea/
+.DS
+.DS_Store
+**/.DS_Store
